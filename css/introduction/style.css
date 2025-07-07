@@ -1,0 +1,21 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+footer {
+    margin-top: auto;
+    padding: 10px;
+}
+
+nav ul li:hover{
+    color:red
+}
+
+
